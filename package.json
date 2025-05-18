@@ -1,4 +1,8 @@
 {
+  "scripts": {
+  "start": "node bot.js"
+}
+
   "dependencies": {
     "bedrock-protocol": "^3.45.0",
     "mineflayer": "^4.27.0"
