@@ -3,7 +3,7 @@ const { createClient } = require('bedrock-protocol');
 const client = createClient({
   host: 'Anqi.aternos.me', // Aternos Bedrock server IP
   port: 40868,                   // Aternos Bedrock port (not 19132)
-  username: 'Bot Babblu',             // Bot's name
+  username: 'Bot Babblu 2',             // Bot's name
   offline: true                  // Aternos doesn't use Xbox auth
 });
 
